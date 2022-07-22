@@ -1,5 +1,5 @@
-## Hi everyone, I'm Michael Davis 👋
+## Hi 👋, I'm Michael Davis
 
-## I'm a security professional, new to the open-source community!
+## I'm a penetration tester, always eager to learn more!
 
-- 🌱 I’m currently learning everything I can about Penetration Testing!
+- 🌱 I’m currently learning Python, Go, Ruby, & C#.
